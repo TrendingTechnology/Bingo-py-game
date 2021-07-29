@@ -6,7 +6,7 @@ A game coded with Python
 This is a Terminal-based game currently in its initial stage. I am working on adding more efficient algorithms. For now it is just as simply coded as it could be to satisfy the necessary functionalities of the game.
 
 ## Screenshot
-![Bingo Game](https://github.com/fr3y/Bingo-py-game/blob/master/images/bingo.PNG?raw=true)
+![Bingo Game](https://github.com/Fr3y/Bingo-py-game/blob/main/images/bingo.PNG?raw=true)
 
 ## Requirements
   1. Install python
